@@ -4,7 +4,7 @@
 
 
 
-- 🎓 Atualmente leciono Desenvolvimento de Sistemas no Ensino Técnico
+- 🎓 Atualmente leciono Desenvolvimento de Sistemas no Ensino Médio Técnico
 - 🌍 Trabalho com **PHP, Laravel, JS, Java, MySQL e mais**
 
 <div align="center">
