@@ -1,14 +1,13 @@
 <h1 align="center">Olá, me chamo Heitor Macedo 👋</h1>
 <h3 align="center">Desenvolvedor backend e educador em tecnologia</h3>
 
----
 
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Atualmente leciono Desenvolvimento de Sistemas no Ensino Técnico
 - 🌍 Trabalho com **PHP, Laravel, JS, Java, MySQL e mais**
 
----
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -22,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
