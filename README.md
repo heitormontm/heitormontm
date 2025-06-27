@@ -7,7 +7,9 @@
 - 🎓 Atualmente leciono Desenvolvimento de Sistemas no Ensino Técnico
 - 🌍 Trabalho com **PHP, Laravel, JS, Java, MySQL e mais**
 
-
+<div align="center">
+  <img src="https://i.imgur.com/3hlN7XG.gif" width="200" alt="PHP Elephant GIF" />
+</div>
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -21,8 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
 </p>
 
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -35,4 +35,4 @@
 
 </div>
 
----
+
